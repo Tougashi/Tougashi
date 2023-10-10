@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Laravel, C#**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-adryan-suryaman-746b68285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/muhammad-adryan-suryaman-746b68285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 - 📫 How to reach me **adryanowh@gmail.com**
 
 - ⚡ Fun fact **Lazy Programmers based on deadline**
