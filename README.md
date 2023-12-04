@@ -1,13 +1,13 @@
 ![readmebox](https://github.com/Tougashi/Tougashi/assets/94227628/06bfa1e7-ca08-4b6e-a893-8d375d88c6bf)
 
 <h1 align="center">Hi 👋, I'm Adryan</h1>
-<h3 align="center">A Full Stack Developer from Indonesia</h3>
+<h3 align="center">a apps & game developer, computer vision, software engineer, and amateur cook.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tougashi&label=Profile%20views&color=0e75b6&style=flat" alt="tougashi" /> </p>
 
 
 
-- 🌱 I’m currently learning **Laravel, C#**
+- 🌱 I’m currently learning **Python, C#**
 
 - 📫 How to reach me **adryanowh@gmail.com**
 
