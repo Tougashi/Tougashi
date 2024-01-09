@@ -1,7 +1,8 @@
 ![readmebox](https://github.com/Tougashi/Tougashi/assets/94227628/06bfa1e7-ca08-4b6e-a893-8d375d88c6bf)
 
 <h1 align="center">Hi 👋, I'm Adryan</h1>
-<h3 align="center">Apps & Game developer, Computer Vision, Software Engineer, and Amateur Cook.</h3>
+<h2 align="center">Apps & Game developer</h2> 
+<h3 alighn="center">Computer Vision, Software Engineer, and Amateur Cook.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tougashi&label=Profile%20views&color=0e75b6&style=flat" alt="tougashi" /> </p>
 
