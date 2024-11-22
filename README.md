@@ -1,7 +1,7 @@
 ![readmebox](https://github.com/Tougashi/Tougashi/assets/94227628/06bfa1e7-ca08-4b6e-a893-8d375d88c6bf)
 
 <h1 align="center">Hi👋, I'm Adryan</h1>
-<h2 align="center">Fullstack Developer | Unity Game Developer | Game Designer</h2> 
+<h2 align="center">Fullstack Developer | Game Developer | Game Designer | Love much Data Science & Machine Learning</h2> 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tougashi&label=Profile%20views&color=0e75b6&style=flat" alt="tougashi" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adryanowh@gmail.com**
 
-- ⚡ Fun fact **I Need Job**
+- ⚡ Fun fact **I hate Apex Legends, but yeah, i play it every single day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
