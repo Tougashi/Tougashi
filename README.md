@@ -3,8 +3,6 @@
 <h1 align="center">Hi👋, I'm Adryan</h1>
 <h2 align="center">Web3 & Blockchain Enthusiast | $SOL & $ETH | Fullstack Developer | Game Developer | Game Designer | Love much Data Science & Machine Learning</h2> 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tougashi&label=Profile%20views&color=0e75b6&style=flat" alt="tougashi" /> </p>
-
 A programmer with an interest in Full-Stack Development, Game Development, Data Science and Machine Learning. Skilled in meeting deadlines while demonstrating creativity and deep technical proficiency. Possesses a profound interest in games, which not only provides personal enjoyment but also enhances understanding of interactive technology and game design. Expertise in problem-solving supports the ability to effectively tackle technical challenges.
 
 - 🌱 I’m currently learning **Solidity, Smart Contract**
@@ -59,6 +57,7 @@ A programmer with an interest in Full-Stack Development, Game Development, Data 
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tougashi&label=Profile%20views&color=0e75b6&style=flat" alt="tougashi" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tougashi&show_icons=true&locale=en&layout=compact" alt="tougashi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tougashi&show_icons=true&locale=en" alt="tougashi" /></p>
