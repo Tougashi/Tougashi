@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi👋, I'm Adryan</h1>
 <h2 align="center">Web3 & Blockchain Enthusiast | $SOL & $ETH | Fullstack Developer | Game Developer | Game Designer | Love much Data Science & Machine Learning</h2> 
-<br>
 A programmer with an interest in Full-Stack Development, Game Development, Data Science and Machine Learning. Skilled in meeting deadlines while demonstrating creativity and deep technical proficiency. Possesses a profound interest in games, which not only provides personal enjoyment but also enhances understanding of interactive technology and game design. Expertise in problem-solving supports the ability to effectively tackle technical challenges.
 
 - 🌱 I’m currently learning **Solidity, Smart Contract**
