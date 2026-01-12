@@ -1,12 +1,9 @@
 ![readmebox](https://github.com/Tougashi/Tougashi/assets/94227628/06bfa1e7-ca08-4b6e-a893-8d375d88c6bf)
 
 <h1 align="center">Hi👋, I'm Adryan</h1>
-<h2 align="center">Web3 & Blockchain Enthusiast | $SOL & $ETH | Fullstack Developer | Game Developer </h2> 
-
-- 🌱 I’m currently learning **Solidity, Smart Contract**
+<h2 align="center">Full-Stack Developer | Game Developer | Web3 & Blockchain Dev</h2> 
 
 - 📫 How to reach me **rootougashi@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,12 +85,6 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tougashi&label=Profile%20views&color=0e75b6&style=flat" alt="tougashi" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tougashi&show_icons=true&locale=en&layout=compact" alt="tougashi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tougashi&show_icons=true&locale=en" alt="tougashi" /></p>
 
 
 
